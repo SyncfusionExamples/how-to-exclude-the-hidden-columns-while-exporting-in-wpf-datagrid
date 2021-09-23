@@ -36,5 +36,7 @@ private void Export_Click(object sender, RoutedEventArgs e)
 
 Take a moment to peruse the [WPF DataGrid - Export To Excel](https://help.syncfusion.com/wpf/datagrid/export-to-excel) documentation, where you can find about export to excel with code examples.
 
+KB article - [How to exclude the Hidden Columns while exporting in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12676/how-to-exclude-the-hidden-columns-while-exporting-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
